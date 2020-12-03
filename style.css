@@ -101,6 +101,7 @@ a:hover {
 
 .d-bloc {
   color: rgba(255, 255, 255, 0.7);
+  font-weight: bold;
 }
 
 .d-bloc button:hover {
@@ -653,7 +654,7 @@ label,
 a {
   font-family: "helvetica";
   font-weight: 400;
-  color: #575757 !important;
+  color: #000000 !important;
 }
 
 .container {
@@ -743,6 +744,7 @@ h4 {
 
 .portfolio-thumb {
   margin-bottom: 24px;
+  width: 100%;
 }
 
 .portfolio-row {
@@ -781,7 +783,7 @@ h4 {
 }
 
 .btn-atomic-tangerine {
-  background: #f3976c;
+  background: #d6855f;
   color: #ffffff !important;
 }
 
